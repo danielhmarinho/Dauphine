@@ -1,0 +1,13 @@
+Package: dauphine-dbgsym
+Source: dauphine
+Version: 1.0.0-1
+Auto-Built-Package: debug-symbols
+Architecture: amd64
+Maintainer: Daniel Henrique Marinho Damasceno <danielhmarinho@gmail.com>
+Installed-Size: 2415
+Depends: dauphine (= 1.0.0-1)
+Section: debug
+Priority: extra
+Homepage: https://github.com/Alke-Games/Dauphine
+Description: Debug symbols for dauphine
+Build-Ids: 598905e02603043e2bb0e2ffd0fda9cf73a4f55d

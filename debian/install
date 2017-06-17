@@ -1,0 +1,7 @@
+docs/ usr/share
+include usr/share
+lib /usr/share
+lua /usr/share
+res /usr/share
+src /usr/share
+Dauphine /usr/bin

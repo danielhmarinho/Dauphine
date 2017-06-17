@@ -1,0 +1,14 @@
+Source: dauphine
+Section: games
+Priority: optional
+Maintainer: Daniel Henrique Marinho Damasceno <danielhmarinho@gmail.com>
+Build-Depends: debhelper (>= 9),wget, libsdl2-image-dev, libsdl2-dev, libsdl2-mixer-dev, libsdl2-ttf-dev, libsdl2-gfx-dev, libreadline-dev, g++
+Standards-Version: 3.9.8
+Homepage: https://github.com/Alke-Games/Dauphine
+#Vcs-Git: https://anonscm.debian.org/collab-maint/dauphine.git
+#Vcs-Browser: https://anonscm.debian.org/cgit/collab-maint/dauphine.git
+
+Package: dauphine
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: A platforming/stealth game in a medieval fantasy setting, developed with SDL3. 
