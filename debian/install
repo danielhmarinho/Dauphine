@@ -1,7 +1,7 @@
-docs/ usr/share
-include usr/share
-lib /usr/share
-lua /usr/share
-res /usr/share
-src /usr/share
-Dauphine /usr/bin
+docs/ usr/games/dauphine
+include usr/games/dauphine
+lib /usr/games/dauphine
+lua /usr/games/dauphine
+res /usr/games/dauphine
+src /usr/games/dauphine
+Dauphine /usr/games/dauphine
